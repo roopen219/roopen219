@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [flydata.com](https://flydata.com)
-- 🌱 I’m currently learning Kafka and Family
+- 🌱 I’m currently building a streaming EL(T) framework
 
 <!--
 **roopen219/roopen219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
