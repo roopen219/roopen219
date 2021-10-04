@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [flydata.com](https://flydata.com)
-- 🌱 I’m currently building a streaming EL(T) framework
+- 🔭 I’m currently working at [sprinto.com](https://www.sprinto.com/)
 
 <!--
 **roopen219/roopen219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
