@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working at [sprinto.com](https://www.sprinto.com/)
+- 🔭 I’m currently working at my own leisure
 
 <!--
 **roopen219/roopen219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
