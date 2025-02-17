@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently building on [truto.one](https://truto.one)
+- 🔭 I’m currently building [truto.one](https://truto.one)
 
 <!--
 **roopen219/roopen219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
